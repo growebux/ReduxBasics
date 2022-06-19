@@ -10,5 +10,14 @@
   "license": "ISC",
   "dependencies": {
     "redux": "^4.2.0"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/growebux/ReduxBasics.git"
+  },
+  "bugs": {
+    "url": "https://github.com/growebux/ReduxBasics/issues"
+  },
+  "homepage": "https://github.com/growebux/ReduxBasics#readme"
 }
